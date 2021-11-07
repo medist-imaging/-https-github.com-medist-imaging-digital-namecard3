@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Mihai;Ionuț Alexandru;;;
-FN: Ionuț Alexandru Mihai 
+N:Lungu;Codruța;;;
+FN: Codruța Lungu
 ORG:MEDIST Imaging & POC;
-TITLE:Key Account Manager\nSales Department
+TITLE:Medical Sales Representative\nSales Department
 EMAIL;type=INTERNET;type=WORK;type=pref:ionut.mihai@medist.ro
-TEL;type=WORK;type=VOICE:+40799 601 371
+TEL;type=WORK;type=VOICE:+40721 275 235
 item1.ADR;type=WORK;type=pref:;;Ion Urdareanu no.34\nfloor 1\, \n050688\;Bucharest;Romania  
 item1.X-ABADR:ro
 item2.URL;type=pref:https://medist-imaging.ro/
